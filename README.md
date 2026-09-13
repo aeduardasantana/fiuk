@@ -1,28 +1,26 @@
-# FIUK — conceito de site institucional
+# FIUK — conceito estratégico de ecossistema digital
 
-Protótipo estratégico de um ecossistema digital para valorização da marca FIUK.
+Protótipo independente para estudo de arquitetura de marca e valorização do patrimônio público de FIUK.
 
-## Objetivo
-Organizar o patrimônio público da marca em quatro territórios principais:
-- Música
-- Tela / audiovisual
-- Motor / automotivo
-- Cultura / parcerias
+## Estrutura atual
 
-## Estrutura
-Site estático em HTML, CSS e JavaScript, pronto para GitHub Pages.
+- `/` — marca-mãe FIUK, com navegação por âncoras
+- `/lp1/` — primeiro rascunho preservado
+- `/music/` — música, eras e catálogo
+- `/screen/` — televisão, cinema, reality e audiovisual
+- `/motor/` — drift, carros, cultura automotiva e Fiukar
+- `/culture/` — imagem, lifestyle, influência e linguagem cultural
+- `/archive/` — eras, acervo e patrimônio histórico
+- `/partnerships/` — territórios e formatos comerciais
 
-## Observação importante
-Este repositório é um conceito estratégico independente e não representa um site oficial publicado por Fiuk ou sua equipe. Fotografias oficiais, logotipos licenciados, mídia kit e assets proprietários devem ser incorporados apenas com autorização dos respectivos titulares.
+## Princípio de arquitetura
 
-## Publicação no GitHub Pages
+FIUK funciona como marca-mãe. Cada universo possui linguagem e função próprias, mas todos aumentam o equity do mesmo nome.
+
+## Importante
+
+Este repositório é um conceito estratégico independente. Não representa site oficial publicado ou aprovado por Fiuk, sua equipe, Ghetto Produtora, gravadoras ou demais titulares de direitos. Fotografias, logos, capas, vídeos e outros assets proprietários devem ser incorporados apenas mediante autorização/licenciamento adequado.
+
+## GitHub Pages
+
 Settings → Pages → Deploy from a branch → main / root.
-
-## Próximas etapas recomendadas
-1. Inserir fotografia oficial de hero.
-2. Inserir capas licenciadas dos álbuns.
-3. Validar cronologia e créditos com equipe.
-4. Adicionar mídia kit oficial.
-5. Definir domínio oficial.
-6. Integrar analytics.
-7. Criar páginas internas por universo.
