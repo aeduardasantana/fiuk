@@ -1,0 +1,1 @@
+const b=document.querySelector('.menu-btn'),d=document.querySelector('.drawer'),c=document.querySelector('.drawer-close');b?.addEventListener('click',()=>d.classList.add('open'));c?.addEventListener('click',()=>d.classList.remove('open'));document.querySelectorAll('.drawer a').forEach(a=>a.addEventListener('click',()=>d.classList.remove('open')));
